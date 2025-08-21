@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/4fb82bca-3a82-432d-a3b9-148107f0b69d
 * **Lightning-Fast Performance**: The application provides near-instantaneous responses.
 * **Flexible Knowledge Base**: Easily switch between different PDF documents to create new, specialized knowledge bases.
 * **Flexible Knowledge Base**: Configured for easy deployment on platforms like Render.
-* 
+  
 ---
 
 ### ⚙️ Tech Stack
@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/4fb82bca-3a82-432d-a3b9-148107f0b69d
 * **Groq**: The fast and powerful Large Language Model (LLM) backend (Llama3-8B).
 * **Ollama Embeddings**: Used to create text embeddings for document processing.
 * **ChromaDB**: The vector store for storing and retrieving document embeddings.
-*
+
 ---
 
 ### 🚀 Getting Started
