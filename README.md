@@ -10,6 +10,8 @@ Here is a quick demo of the application in action.
 
 
 
+https://github.com/user-attachments/assets/4fb82bca-3a82-432d-a3b9-148107f0b69d
+
 
 ### ✨ Features
 
@@ -38,8 +40,8 @@ To run this application locally, follow these steps:
 
 1.  **Clone the repository**:
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/HassamMirza804/RAG-Powered-AI-Assistant-for-PDFs.git
+    cd RAG-Powered-AI-Assistant-for-PDFs
     ```
 
 2.  **Install the dependencies**:
@@ -47,8 +49,15 @@ To run this application locally, follow these steps:
     pip install -r requirements.txt
     ```
 
-3.  **Run the Flask application**:
+3.  **Prepare the PDF File**:
     ```sh
-    gunicorn app:app
+    Place the PDF file you want to use inside the project's root directory and rename it to document.pdf
     ```
+
+4.  **Run the Application**:
+    ```sh
+    python app.py
+    flask run
+    ```
+
     The application will be accessible at `http://localhost:5000`.
